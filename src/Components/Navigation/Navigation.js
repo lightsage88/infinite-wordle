@@ -15,8 +15,8 @@ export const Navigation = () => {
             <Link to="/">
               <Nav.Link>Home</Nav.Link>
             </Link>
-            <Link to="/game">
-              <Nav.Link>Game</Nav.Link>
+            <Link to="/about">
+              <Nav.Link>About</Nav.Link>
             </Link>
             <NavDropdown title="Dropdown" id="basic-nav-dropdown">
               <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>

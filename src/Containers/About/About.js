@@ -1,9 +1,9 @@
 import styled from 'styled-components';
 
-export const Game = () => {
+export const About = () => {
     return (
         <>
-            <h1>Game Component</h1>
+            <h1>About Component</h1>
         </>
     );
 }
